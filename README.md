@@ -9,7 +9,7 @@ A simple Streamlit app that helps you track your daily expenses.
 - Filter by date range
 - Interactive interface built with Streamlit
 
-## Run the App
+## Run the Code
 
 ```bash
 streamlit run expense_tracker_app.py
